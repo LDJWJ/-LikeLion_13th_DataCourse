@@ -6,3 +6,4 @@
     * 01 title tag [code](https://github.com/LDJWJ/LikeLion_13th_DataCourse/blob/main/web_html/01_html_title.html)
     * 02 body, p tag [code](https://github.com/LDJWJ/LikeLion_13th_DataCourse/blob/main/web_html/02_html_body_p.html)
     * 03 a, img tag [code](https://github.com/LDJWJ/LikeLion_13th_DataCourse/blob/main/web_html/03_html_link_img.html)
+    * 04 div, span, ul, ol, li [code](https://github.com/LDJWJ/LikeLion_13th_DataCourse/blob/main/web_html/04_html_div_span.html)
