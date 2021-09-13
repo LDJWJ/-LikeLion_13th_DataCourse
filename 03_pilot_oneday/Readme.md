@@ -50,12 +50,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>전예슬<br/> 
+        <div align="left"> 파일럿 프로젝트 <br/>5인이상 코딩금지<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">전예슬(yeddorii@gamil.com)<br/>전예슬</div>
+            <div align="left">최두호(email@gmail.com)<br/>팀원:강수정</div>
         </td>
 		<td>
 			<div align="left"> 인터넷 서점 베스트 셀러를 통한 분야별 선호도 파악하기 </div></td>
@@ -77,7 +77,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">김범중<kbjoong@likelion.org><br/>김범중</div>
+            <div align="left">김범중(kbjoong@likelion.org)<br/></div>
         </td>
 		<td>
 			<div align="left"> 아이폰 가격 추이 </div></td>
@@ -99,7 +99,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">김진연(hourglass458@gmail.com)<br/>김진연</div>
+            <div align="left">김진연(hourglass458@gmail.com)<br/></div>
         </td>
 		<td>
 			<div align="left"> 구글 트렌드 인기 검색어 분석 </div></td>
@@ -121,7 +121,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">문승우<woocity16@likelion.org><br/>문승우</div>
+            <div align="left">문승우(woocity16@likelion.org)<br/></div>
         </td>
 		<td>
 			<div align="left"> 멜론 곡정보 분석 </div></td>
@@ -143,7 +143,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">박지용<toboy93@likelion.org><br/>박지용</div>
+            <div align="left">박지용(toboy93@likelion.org)<br/></div>
         </td>
 		<td>
 			<div align="left"> 앱 스토어 순위 분석 프로젝트 </div></td>
@@ -165,29 +165,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">오소영(luxflu@gmail.com)<br/>오소영</div>
-        </td>
-		<td>
-			<div align="left"> 유튜브 데이터 수집 </div></td>
-		<td>
-            <div align="center"> <a href="">
-				<img src='images/leaf_forest.jpg' width=300 height=150  alt="모여봐요나뭇잎숲"></a>    
-            </div>
-        </td>
-		<td>
-            <div align="center"> 
-			<a href="">작품은 <br>여기에서</a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>오소영<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">오소영(luxflu@gmail.com)<br/>오소영</div>
+            <div align="left">오소영(luxflu@gmail.com)<br/></div>
         </td>
 		<td>
 			<div align="left"> 유튜브 데이터 수집 </div></td>
@@ -209,7 +187,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">정진우 <ehzndk@likelion.org><br/>정진우</div>
+            <div align="left">정진우 (ehzndk@likelion.org)<br/></div>
         </td>
 		<td>
 			<div align="left"> 당신의 자기소개서는 합격한 자기소개서와 얼마나 닮았을까요? </div></td>
@@ -231,10 +209,32 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">박승규(qkrtmdrb1221@likelion.org)<br/>박승규</div>
+            <div align="left">박승규(qkrtmdrb1221@likelion.org)<br/></div>
         </td>
 		<td>
 			<div align="left"> 해외 비트코인 거래소 시세에 따른 국내 거래소 시세 변화 </div></td>
+		<td>
+            <div align="center"> <a href="">
+				<img src='images/leaf_forest.jpg' width=300 height=150  alt="모여봐요나뭇잎숲"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="">작품은 <br>여기에서</a>    
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="left"> 파일럿 프로젝트 <br/>전예슬<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">전예슬(yeddorii@gamil.com)<br/></div>
+        </td>
+		<td>
+			<div align="left"> 인터넷 서점 베스트 셀러를 통한 분야별 선호도 파악하기 </div></td>
 		<td>
             <div align="center"> <a href="">
 				<img src='images/leaf_forest.jpg' width=300 height=150  alt="모여봐요나뭇잎숲"></a>    
