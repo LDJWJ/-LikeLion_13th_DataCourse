@@ -13,3 +13,8 @@
   * CSS 기본 이해 
     * Toy Project - 나의 첫번째 사진 갤러리 [이동](https://ldjwj.github.io/LikeLion_13th_DataCourse/02_css_gallery/14_img_galley.html)  [code](https://github.com/LDJWJ/LikeLion_13th_DataCourse/blob/main/02_css_gallery/14_img_galley.html)
 
+
+### 파일럿 프로젝트 - 나의 첫번째 데이터 수집하기 프로젝트
+  * 첫번째 멋사 이야기 
+    * Toy Project - My Dataset [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse/tree/main/03_pilot_oneday)  
+
