@@ -1,6 +1,7 @@
 
 # AI School - 13회차
-* 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문
+* 첫번째 발걸음 - 파일럿 프로젝트
+  * 내용 : 나의 힘으로 웹에서 데이터를 가져와보자.
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
