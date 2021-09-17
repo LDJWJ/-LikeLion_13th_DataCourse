@@ -49,12 +49,13 @@
 		<div align="center"><font color="#FFFFFF"><b>작품으로 이동(pdf, web)</b></font></div>
 		</td>
 	</tr>
+	
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/> 가채원<br/> 
-            <b></b>
-		</div>
-		</td>
+			<div align="left"> 파일럿 프로젝트 <br/> 가채원<br/> 
+				<b></b>
+			</div>
+			</td>
 		<td>
             <div align="left">가채원(email@gmail.com)<br/>팀원:가채원</div>
         </td>
@@ -73,9 +74,9 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>5인이상 코딩금지<br/> 
-            <b></b>
-		</div>
+			<div align="left"> 파일럿 프로젝트 <br/>5인이상 코딩금지<br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
             <div align="left">강수정(email@gmail.com)<br/>팀원:강수정</div>
@@ -95,9 +96,9 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>김범중<br/> 
-            <b></b>
-		</div>
+			<div align="left"> 파일럿 프로젝트 <br/>김범중<br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
             <div align="left">김범중(kbjoong@likelion.org)<br/></div>
@@ -118,9 +119,9 @@
 
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>노현곤<br/> 
-            <b></b>
-		</div>
+			<div align="left"> 파일럿 프로젝트 <br/>노현곤<br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
             <div align="left">노현곤(giedoong5432@likelion.org)<br/></div>
@@ -141,10 +142,11 @@
 
 	<tr>
 		<td>
-        <div align="left"> 파일럿 프로젝트 <br/>문승우<br/> 
-            <b></b>
-		</div>
-		</td>
+			<div align="left"> 파일럿 프로젝트 <br/>문승우<br/> 
+				<b></b>
+			</div>
+			</td>
+		<td>
 		<td>
             <div align="left">문승우(woocity16@likelion.org)<br/></div>
         </td>
