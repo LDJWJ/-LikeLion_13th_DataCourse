@@ -141,7 +141,7 @@
 <hr>
 
 [![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
-### 멋쟁이 사자처럼 실무 데이터 사이언티스트 1기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
+### 멋쟁이 사자처럼 실무 데이터 사이언티스트 4기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
 
 
 <hr>
@@ -150,7 +150,6 @@
 - <b>Submission   </b>: 결과보고
 - <b>Presentation </b>: 10min / team, Q&A
 - <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
-
 <hr>
 
 <br>
