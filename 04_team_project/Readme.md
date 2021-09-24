@@ -50,140 +50,90 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 3333조<br/>(팀장:김동화)<br/> 
+        <div align="center"> 팀명:5인이상_코딩금지 <br/>(팀장:최두호)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김동화<br/>김남은, 김민수, 최민혁</div>
+            <div align="left">최두호<br/>김남은, 김민수, 최민혁</div>
         </td>
 		<td>
-			<div align="left"> 버거 지수는 실제로 도시의 발전을 나타낼까? </div></td>
+			<div align="left"> ___ </div></td>
 		<td>
             <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/burger-index">
-				<img src='images/01_pic.png' width=200 height=100  alt="8조였던1조"></a>    
+				<img src='images/01_five.png' width=200 height=100  alt="8조였던1조"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:트리플 J<br/>(팀장:김현준)<br/> 
+        <div align="center"> 팀명:스파게티<br/>(팀장:김범중)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김현준<br/>김지연, 정희경 </div>
+            <div align="left">김범중<br/>김지연, 정희경 </div>
         </td>
 		<td>
-			<div align="left"> 쇼핑몰 의류 판매 아이템 트렌드 분석 </div></td>
+			<div align="left"> ___ </div></td>
 		<td>
             <div align="center"> <a href="./reports/최종발표_B_트리플J_0709.pdf">
-				<img src='images/02_image.jpg' width=200 height=100  alt="트리플 J"></a>    
+				<img src='images/02_spa.jpg' width=200 height=100  alt="트리플 J"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:사자들<br/>(팀장:박성준)<br/> 
+        <div align="center"> 팀명:trinity<br/>(팀장:김진연)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">박성준<br/>박상엽, 이지은 </div>
+            <div align="left">김진연<br/>박상엽, 이지은 </div>
         </td>
 		<td>
-			<div align="left"> 전국 맛집 데이터 분석 </div></td>
+			<div align="left">  ___ </div></td>
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
-				<img src='images/03_LikeLion.png' width=200 height=100 alt="사자들"></a>    
+				<img src='images/03_trinity.png' width=200 height=100 alt="사자들"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:이희희 <br/>(팀장:이성준)<br/> 
+        <div align="center"> 팀명:사자감성 <br/>(팀장:문승우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이성준<br/> 노진희, 조희창 </div>
+            <div align="left">문승우<br/> 노진희, 조희창 </div>
         </td>
 		<td>
-			<div align="left"  > 코로나19와 재난문자의 연관성 분석 </div></td>
+			<div align="left"> ___ </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/Team-2b47df72296e41b1b939648eca842cd7">
-				<img src='images/04_image.png' width=200 height=100 alt="이희희"></a>    
+				<img src='images/04_lion.jpg' width=200 height=100 alt="이희희"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:이남류<br/>(팀장:이응진)<br/> 
+        <div align="center"> 팀명:삼삼사자<br/>(팀장:이성준)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이응진<br/> 남연주, 류지인 </div>
+            <div align="left">이성준<br/> ___ </div>
         </td>
 		<td>
-		    <div align="left"> 코로나로 인한 건강에 관한 관심도 변화 </div></td>
+		    <div align="left"> ___ </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/8521d6bf42bd452da8da3930d8e0bd0f">
-				<img src='images/05_leeeunjin.png' width=200 height=100 alt="이남류"></a>    
+				<img src='images/05_33lion.png' width=200 height=100 alt="이남류"></a>    
             </div>
         </td>
 	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:황금 시바견<br/>(팀장:이예준)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">이예준<br/> 최수연, 최아름 </div>
-        </td>
-		<td>
-		    <div align="left"> GDP에 기반한 Covid 데이터 분석 및 시각화 </div></td>
-		<td>
-            <div align="center"> <a href="reports/..">
-              <img src='images/06_dog_e.png' width=200 height=100 alt="황금 시바견"></a> 
-	        </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:ESC팀 <br/>(팀장:이준명)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">이준명<br/> 안현우, 양소연, 양효진 </div>
-        </td>
-		<td>
-		    <div align="left"> 기후 변화에 따른 환경영향 </div></td>
-		<td>
-            <div align="center"> <a href="reports/최종발표_G_ESC팀_0709.pdf">
-				<img src='images/07_image.png' width=200 height=100 alt="ESC팀"></a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:피땀멜론 <br/>(팀장:전명운)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">전명운<br/> 김현, 김혜린, 이규림 </div>
-        </td>
-		<td>
-		    <div align="left"> 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
-		<td>
-            <div align="center"> <a href="https://www.notion.so/619db18bd7244210b74532287adf7b2f">
-			<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
-            </div>
-        </td>
-	</tr>
+
 </table>
 </div>
 <hr>
