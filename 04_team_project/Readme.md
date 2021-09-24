@@ -1,7 +1,7 @@
 
 # AI School - 13회차
-* 첫번째 발걸음 - 파일럿 프로젝트
-  * 내용 : 나의 힘으로 웹에서 데이터를 가져와보자.
+* 두번째 발걸음 - 팀별 프로젝트
+  * 내용 : 팀으로 프로젝트를 수행해 본다.
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -9,18 +9,20 @@
     </font>, [임동조](frontierlim13@gmail.com)</font></div>
 <hr>
 
-<h2><font color="#00CCCC"><b>데이터 사이언티스트 실무자</b></font></h2>
+<h2><font color="#00CCCC"><b>멋쟁이 사자처럼 13회-4기</b></font></h2>
 
 <img src="./images/just_start.jpg">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-웹 데이터 수집 파일럿 프로젝트
-* 기간 : 2021.09.14(화)<br>
+팀별 프로젝트
+* 기간 : 2021.09.17(금)<br>
   * STEP 01. 개인 웹 데이터 수집
-    * 최종 분석 제출 : 2021.09.14(화) 22:00
+  * STEP 02. 2021.10.01(금), 중간 발표<br>
+  * STEP 03. 2021.10.08(금), 최종 발표<br>
+    * 최종 분석 제출 : 2021.10.07(목) 22:00
 	* 제출 : frontier1020@naver.com
-  * STEP 02. 2021.09.15(수), 16(목) 최종 결과물 발표<br>
+
 
 ## <font color='#00AAAA'>Reference Documents</font>
 
@@ -55,7 +57,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">최두호<br/>김남은, 김민수, 최민혁</div>
+            <div align="left">최두호<br/>김은우, 안태현, 강수정</div>
         </td>
 		<td>
 			<div align="left"> ___ </div></td>
@@ -72,7 +74,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">김범중<br/>김지연, 정희경 </div>
+            <div align="left">김범중<br/>정진우, 가채원, 윤진훈</div>
         </td>
 		<td>
 			<div align="left"> ___ </div></td>
@@ -89,7 +91,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">김진연<br/>박상엽, 이지은 </div>
+            <div align="left">김진연<br/> 박지용, 오소영 </div>
         </td>
 		<td>
 			<div align="left">  ___ </div></td>
@@ -106,7 +108,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">문승우<br/> 노진희, 조희창 </div>
+            <div align="left">문승우<br/> 진수현, 전예슬 </div>
         </td>
 		<td>
 			<div align="left"> ___ </div></td>
@@ -123,7 +125,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">이성준<br/> ___ </div>
+            <div align="left">이성준<br/> 노현곤, 박승규 </div>
         </td>
 		<td>
 		    <div align="left"> ___ </div></td>
