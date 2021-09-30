@@ -128,7 +128,7 @@
             <div align="left">이성준<br/> 노현곤, 박승규 </div>
         </td>
 		<td>
-		    <div align="left"> 코로나 확진자 수, 재난지원금에 따른 온라인과 오프라인의 소비드렌드 변화  비교분석   </div></td>
+		    <div align="left"> 고령 계층을 위한 노인의 디지털 소외 해소 방안   </div></td>
 		<td>
             <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
 				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자"></a>    
