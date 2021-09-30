@@ -60,10 +60,10 @@
             <div align="left">최두호<br/>김은우, 안태현, 강수정</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 코로나의 영향이 있는 지역 및 업종 파악 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/burger-index">
-				<img src='images/01_five.png' width=200 height=100  alt="8조였던1조"></a>    
+            <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
+				<img src='images/01_five.png' width=200 height=100  alt="5인이상_코딩금지"></a>
             </div>
         </td>
 	</tr>
@@ -77,10 +77,10 @@
             <div align="left">김범중<br/>정진우, 가채원, 윤진훈</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 코로나19에 따른 생활 양상 변화 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/최종발표_B_트리플J_0709.pdf">
-				<img src='images/02_spa.jpg' width=200 height=100  alt="트리플 J"></a>    
+            <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_스파게티.pdf">
+				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>    
             </div>
         </td>
 	</tr>
@@ -94,10 +94,10 @@
             <div align="left">김진연<br/> 박지용, 오소영 </div>
         </td>
 		<td>
-			<div align="left">  ___ </div></td>
+			<div align="left"> 감염자 상위 30개국 대상으로 경향 분석하기 </div></td>
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
-				<img src='images/03_trinity.png' width=200 height=100 alt="사자들"></a>    
+				<img src='images/03_trinity.png' width=200 height=100 alt="trinity"></a>    
             </div>
         </td>
 	</tr>
@@ -111,10 +111,10 @@
             <div align="left">문승우<br/> 진수현, 전예슬 </div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 코로나 영향으로 인한 비트코인 동향 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/Team-2b47df72296e41b1b939648eca842cd7">
-				<img src='images/04_lion.jpg' width=200 height=100 alt="이희희"></a>    
+            <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_사자감성.pdf">
+				<img src='images/04_lion.jpg' width=200 height=100 alt="사자감성"></a>    
             </div>
         </td>
 	</tr>
@@ -128,10 +128,10 @@
             <div align="left">이성준<br/> 노현곤, 박승규 </div>
         </td>
 		<td>
-		    <div align="left"> ___ </div></td>
+		    <div align="left"> 코로나 확진자 수, 재난지원금에 따른 온라인과 오프라인의 소비드렌드 변화  비교분석   </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/8521d6bf42bd452da8da3930d8e0bd0f">
-				<img src='images/05_33lion.png' width=200 height=100 alt="이남류"></a>    
+            <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
+				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자"></a>    
             </div>
         </td>
 	</tr>
