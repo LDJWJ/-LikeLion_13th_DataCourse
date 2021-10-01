@@ -94,7 +94,7 @@
             <div align="left">김진연<br/> 박지용, 오소영 </div>
         </td>
 		<td>
-			<div align="left"> 감염자 상위 30개국 대상으로 경향 분석하기 </div></td>
+			<div align="left"> 우리나라 10월부터 위드 코로나 해도 될까? </div></td>
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
 				<img src='images/03_trinity.png' width=200 height=100 alt="trinity"></a>    
