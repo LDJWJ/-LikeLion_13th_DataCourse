@@ -60,7 +60,7 @@
             <div align="left">최두호<br/>김은우, 안태현, 강수정</div>
         </td>
 		<td>
-			<div align="left"> 코로나의 영향이 있는 지역 및 업종 파악 </div></td>
+			<div align="left"> 지역에 따른 전기차 적합여부 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
 				<img src='images/01_five.png' width=200 height=100  alt="5인이상_코딩금지"></a>
@@ -138,6 +138,11 @@
 
 </table>
 </div>
+
+<ul>
+<li><a href="코로나19에%20따른%20생활%20양상%20변화.html">관련 뉴스 링크</a></li>
+</ul>
+
 <hr>
 
 [![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
