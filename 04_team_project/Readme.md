@@ -140,7 +140,7 @@
 </div>
 
 <ul>
-<li><a href="코로나19에%20따른%20생활%20양상%20변화.html">관련 뉴스 링크</a></li>
+<li><a href="https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/news/list_index.html">관련 뉴스 링크</a></li>
 </ul>
 
 <hr>
