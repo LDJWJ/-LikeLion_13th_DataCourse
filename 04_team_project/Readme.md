@@ -72,7 +72,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간 발표</a><br>
+			<a href="">작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -95,7 +96,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
+			<a href="">작품 보기</a>
             </div>
         </td>
 	</tr>
@@ -119,7 +121,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
+			<a href="">작품 보기</a>
             </div>
         </td>
 	</tr>
@@ -144,6 +147,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+			<a href="">작품 보기</a>
             </div>
         </td>
 	</tr>
@@ -168,6 +172,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+			<a href="">작품 보기</a>
             </div>
         </td>
 	</tr>
