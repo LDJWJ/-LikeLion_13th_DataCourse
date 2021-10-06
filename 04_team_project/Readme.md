@@ -72,7 +72,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표.pdf">중간 발표</a><br>
+			<a href="./reports/LikeLion_1차_중간발표_5인이상코딩금지_2101.pdf">중간 발표</a><br>
 			<a>작품 보기</a><br>
             </div>
         </td>
@@ -90,7 +90,7 @@
 			<div align="left"> 코로나19에 따른 생활 양상 변화 </div></td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_프로젝트계획서_스파게티.pdf">
+			<a href="./reports/LikeLion_1차_중간발표_스파게티_2110.pdf">
 				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>
             </div>
         </td>
@@ -103,7 +103,7 @@
 	</tr>
 	<tr>
 		<td>
-			<div align="center"> 팀명:trinity<br/>(팀장:김진연)<br/> 
+			<div align="center"> 팀명:trinity <br/>(팀장:김진연)<br/> 
 				<b></b>
 			</div>
 		</td>
@@ -114,7 +114,7 @@
 			<div align="left"> 우리나라 10월부터 위드 코로나 해도 될까? </div></td>
 		<td>
             <div align="center">
-			<a href="reports/사자들_박성준.pdf">
+			<a href="reports/LikeLion_1차_중간발표_trinity_2110.pdf">
 				<img src='images/03_trinity.png' width=200 height=100 alt="trinity">
 			</a>    
             </div>
@@ -171,7 +171,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
+			<a href="./reports/LikeLion_1차_중간발표_33Lions_2110.pdf">중간발표</a><br>
 			<a>작품 보기</a><br>
             </div>
         </td>
