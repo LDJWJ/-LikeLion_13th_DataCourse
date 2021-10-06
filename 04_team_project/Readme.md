@@ -65,7 +65,8 @@
 		<td>
 			<div align="left"> 지역에 따른 전기차 적합여부 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
 				<img src='images/01_five.png' width=200 height=100  alt="5인이상_코딩금지"></a>
             </div>
         </td>
@@ -87,8 +88,9 @@
 		<td>
 			<div align="left"> 코로나19에 따른 생활 양상 변화 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_스파게티.pdf">
-				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>    
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_프로젝트계획서_스파게티.pdf">
+				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>
             </div>
         </td>
 		<td>
@@ -99,9 +101,9 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:trinity<br/>(팀장:김진연)<br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명:trinity<br/>(팀장:김진연)<br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
             <div align="left">김진연<br/> 박지용, 오소영 </div>
@@ -109,8 +111,10 @@
 		<td>
 			<div align="left"> 우리나라 10월부터 위드 코로나 해도 될까? </div></td>
 		<td>
-            <div align="center"><a href="reports/사자들_박성준.pdf">
-				<img src='images/03_trinity.png' width=200 height=100 alt="trinity"></a>    
+            <div align="center">
+			<a href="reports/사자들_박성준.pdf">
+				<img src='images/03_trinity.png' width=200 height=100 alt="trinity">
+			</a>    
             </div>
         </td>
 		<td>
@@ -131,8 +135,10 @@
 		<td>
 			<div align="left"> 코로나 영향으로 인한 비트코인 동향 </div></td>
 		<td>
-            <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_사자감성.pdf">
-				<img src='images/04_lion.jpg' width=200 height=100 alt="사자감성"></a>    
+            <div align="center">
+			<a href="./report/LikeLion_1차_프로젝트계획서_사자감성.pdf">
+				<img src='images/04_lion.jpg' width=200 height=100 alt="사자감성">
+			</a>    
             </div>
         </td>
 		<td>
@@ -153,8 +159,10 @@
 		<td>
 		    <div align="left"> 고령 계층을 위한 노인의 디지털 소외 해소 방안   </div></td>
 		<td>
-            <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
-				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자"></a>    
+            <div align="center"> 
+			<a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
+				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자">
+			</a>
             </div>
         </td>
 		<td>
