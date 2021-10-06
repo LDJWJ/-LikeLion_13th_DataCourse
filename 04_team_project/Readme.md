@@ -29,7 +29,7 @@
 ##  <font color='#00AAAA'>Team Project : Kick Off</font>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
-- <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
+- <b>Our Motto   </b>: <font color='#CC0000'><b> Just Start !! </b></font>
 - <b>Report Format </b>: <a href="./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
@@ -47,7 +47,10 @@
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="120">
-		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
+		<div align="center"><font color="#FFFFFF"><b>Reports A</b></font></div>
+		</td>
+		<td width="120">
+		<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
 		</td>
 	</tr>
 	<tr>
@@ -64,6 +67,11 @@
 		<td>
             <div align="center"> <a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
 				<img src='images/01_five.png' width=200 height=100  alt="5인이상_코딩금지"></a>
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
             </div>
         </td>
 	</tr>
@@ -83,6 +91,11 @@
 				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>    
             </div>
         </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+            </div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -98,6 +111,11 @@
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
 				<img src='images/03_trinity.png' width=200 height=100 alt="trinity"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
             </div>
         </td>
 	</tr>
@@ -117,6 +135,11 @@
 				<img src='images/04_lion.jpg' width=200 height=100 alt="사자감성"></a>    
             </div>
         </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
+            </div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -132,6 +155,11 @@
 		<td>
             <div align="center"> <a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
 				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a>
             </div>
         </td>
 	</tr>
