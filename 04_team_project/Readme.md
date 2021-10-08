@@ -73,7 +73,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표_5인이상코딩금지_2101.pdf">중간 발표</a><br>
-			<a>작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_5인이상코딩금지.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -97,7 +97,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
-			<a>작품 보기</a><br>
+			<a>최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -122,7 +122,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
-			<a>작품 보기</a><br>
+			<a>최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -146,8 +146,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>중간발표</a><br>
-			<a>작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_중간발표_사자감성_2110.pdf">중간발표</a><br>
+			<a>최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
