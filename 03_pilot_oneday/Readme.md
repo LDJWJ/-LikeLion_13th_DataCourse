@@ -15,7 +15,7 @@
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-웹 데이터 수집 파일럿 프로젝트
+01 웹 데이터 수집 - 파일럿 프로젝트
 * 기간 : 2021.09.14(화)<br>
   * STEP 01. 개인 웹 데이터 수집
     * 최종 분석 제출 : 2021.09.14(화) 22:00
@@ -24,11 +24,10 @@
 
 ## <font color='#00AAAA'>Reference Documents</font>
 
-##  <font color='#00AAAA'>Team Project : Kick Off</font>
+##  <font color='#00AAAA'>Project List</font>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
-- <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
-- ※ If you click on the image on the right, you can view "Initiation Report" by team.
+- ※ If you click on the image on the right, you can view "Initiation Report"
 
 <div align="left">
 <table border=1 bgcolor="#EEEEEE">
@@ -70,8 +69,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a><br>
+			<a>파일럿 프로젝트 02</a> 
             </div>
         </td>
 	</tr>
@@ -96,8 +95,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a><br>
+			<a>파일럿 프로젝트 02</a> 
             </div>
         </td>
 	</tr>
@@ -122,8 +121,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a><br>
+			<a>파일럿 프로젝트 02</a> 
             </div>
         </td>
 	</tr>
@@ -148,8 +147,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -174,8 +172,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -200,8 +197,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -226,8 +222,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -252,8 +247,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -278,8 +272,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -304,8 +297,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -330,8 +322,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -356,8 +347,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -381,8 +371,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -406,8 +395,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a> 
             </div>
         </td>
 	</tr>
@@ -431,8 +419,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -456,8 +443,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -481,8 +467,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -506,8 +491,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 1</a>
-			<a>파일럿 프로젝트 2</a> 
+			<a>파일럿 프로젝트 01</a>
             </div>
         </td>
 	</tr>
@@ -517,13 +501,12 @@
 <hr>
 
 [![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
-### 멋쟁이 사자처럼 실무 데이터 사이언티스트 1기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
+### 멋쟁이 사자처럼 실무 데이터 사이언티스트 4기(13회차)!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
 
 <hr>
 
-##  <font color='#00AAAA'>Team Project : Final Report</font>
-- <b>Submission   </b>: 결과보고
-- <b>Presentation </b>: 10min / team, Q&A
+##  <font color='#00AAAA'>Pilot Project : Final Report</font>
+- <b>Submission   </b>: 결과물 작성 및 발표
 - <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
 
 <hr>
