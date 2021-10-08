@@ -69,8 +69,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a><br>
-			<a>파일럿 프로젝트 02</a> 
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -95,8 +94,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a><br>
-			<a>파일럿 프로젝트 02</a> 
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -121,8 +119,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a><br>
-			<a>파일럿 프로젝트 02</a> 
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -147,7 +144,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -172,7 +169,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -197,7 +194,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -222,7 +219,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -247,7 +244,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -272,7 +269,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -297,7 +294,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -322,7 +319,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -347,7 +344,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -371,7 +368,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -395,7 +392,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a> 
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -419,7 +416,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -443,7 +440,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -467,7 +464,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
@@ -491,7 +488,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a>파일럿 프로젝트 01</a>
+			<a>작품으로 이동</a>
             </div>
         </td>
 	</tr>
