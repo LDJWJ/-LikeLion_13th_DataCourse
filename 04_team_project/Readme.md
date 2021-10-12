@@ -73,7 +73,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표_5인이상코딩금지_2101.pdf">중간 발표</a><br>
-			<a href="./reports/LikeLion_1차_최종_5인이상코딩금지.pdf">최종 작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_5인이상코딩금지_202110.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -97,7 +97,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
-			<a>최종 작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_스파게티_202110.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -122,7 +122,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표.pdf">중간발표</a><br>
-			<a>최종 작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_trinity조_202110.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
@@ -147,13 +147,13 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표_사자감성_2110.pdf">중간발표</a><br>
-			<a>최종 작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_사자감성.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:삼삼사자<br/>(팀장:이성준)<br/> 
+        <div align="center"> 팀명:33Lions<br/>(팀장:이성준)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -164,15 +164,15 @@
 		    <div align="left"> 고령 계층을 위한 노인의 디지털 소외 해소 방안   </div></td>
 		<td>
             <div align="center"> 
-			<a href="./report/LikeLion_1차_프로젝트계획서_삼삼사자.pdf">
-				<img src='images/05_33lion.png' width=200 height=100 alt="삼삼사자">
+			<a href="./report/LikeLion_1차_프로젝트계획서_33Lions.pdf">
+				<img src='images/05_33lion.png' width=200 height=100 alt="33Lions">
 			</a>
             </div>
         </td>
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표_33Lions_2110.pdf">중간발표</a><br>
-			<a>작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_33Lions_202110.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
