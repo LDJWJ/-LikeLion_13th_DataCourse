@@ -16,5 +16,5 @@
 
 ### 팀별 프로젝트 둘 - 우리는 최고의 멋사 4기(13회차)
   * 두번째 팀별 프로젝트 이야기 
-    * team Project 02 - Corona & etc [이동]()	
+    * team Project 02 - Corona & etc [이동](https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/)	
 
