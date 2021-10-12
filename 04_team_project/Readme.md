@@ -122,7 +122,7 @@
 		<td>
             <div align="center"> 
 			<a href="./reports/LikeLion_1차_중간발표_trinity_2110.pdf">중간발표</a><br>
-			<a href="./reports/LikeLion_1차_최종_trinity조_202110.pdf">최종 작품 보기</a><br>
+			<a href="./reports/LikeLion_1차_최종_trinity조_202110_v12.pdf">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
