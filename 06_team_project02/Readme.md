@@ -56,53 +56,77 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:5인이상_코딩금지 <br/>(팀장:최두호)<br/> 
+        <div align="center"> 팀명:돌체라떼 <br/>(팀장:박지용)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최두호<br/>김은우, 안태현, 강수정</div>
+            <div align="left">박지용<br/> 최두호, 윤진훈 </div>
         </td>
 		<td>
-			<div align="left"> 지역에 따른 전기차 적합여부 </div></td>
+			<div align="left"> 에너지가격과 국내 가스 수요량(지역난방, 산업가스)에 다른 공급량 예측 </div></td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_프로젝트계획서_5인이상_코딩금지.pdf">
-				<img src='images/01_five.png' width=200 height=100  alt="5인이상_코딩금지"></a>
+			<a href="./reports/프로젝트_수행_계획서_돌체라떼.pdf">
+				<img src='images/dolce.jpg' width=200 height=100  alt="돌체라떼"></a>
             </div>
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표_5인이상코딩금지_2101.pdf">중간 발표</a><br>
-			<a href="./reports/LikeLion_1차_최종_5인이상코딩금지_202110.pdf">최종 작품 보기</a><br>
+			<a href="./reports/">중간 발표</a><br>
+			<a href="./reports/">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:스파게티<br/>(팀장:김범중)<br/> 
+        <div align="center"> 팀명:멋쟁이 수정처럼<br/>(팀장:강수정)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김범중<br/>정진우, 가채원, 윤진훈</div>
+            <div align="left">강수정<br/>문승우, 오소영, 정진우</div>
         </td>
 		<td>
-			<div align="left"> 코로나19에 따른 생활 양상 변화 </div></td>
+			<div align="left"> 데이콘 - 가스공급량 수요예측 모델개발 대회에 참여 </div></td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표_스파게티_2110.pdf">
-				<img src='images/02_spa.jpg' width=200 height=100  alt="스파게티"></a>
+			<a href="./reports/프로젝트_수행_계획서_멋쟁이_수정처럼.pdf">
+				<img src='images/likelion_likesujung.png' width=200 height=100  alt="멋쟁이 수정처럼"></a>
             </div>
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/LikeLion_1차_중간발표_스파게티_2110.pdf">중간발표</a><br>
-			<a href="./reports/LikeLion_1차_최종_스파게티_202110.pdf">최종 작품 보기</a><br>
+			<a href="./reports/">중간발표</a><br>
+			<a href="./reports/">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
 
+	<tr>
+		<td>
+        <div align="center"> 팀명: 으쌰으쌰 <br/>(팀장:가채원)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left"> 가채원 <br/> 김범중, 김진연 </div>
+        </td>
+		<td>
+			<div align="left"> 날씨에 따른 가스공급량 수요예측 모델 개발 </div></td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/프로젝트_수행_계획서_으쌰으쌰.pdf">
+				<img src='images/fighting_jin.png' width=200 height=100  alt="으쌰으쌰"></a>
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="./reports/">중간발표</a><br>
+			<a href="./reports/">최종 작품 보기</a><br>
+            </div>
+        </td>
+	</tr>
 
 </table>
 </div>
