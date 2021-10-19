@@ -51,7 +51,7 @@
 	
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/> 강수정<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/> <br/> 
 				<b></b>
 			</div>
 		</td>
@@ -76,7 +76,7 @@
 
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/>김범중<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/><br/> 
 				<b></b>
 			</div>
 		</td>
@@ -101,7 +101,7 @@
 	
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/>김진연<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/><br/> 
 				<b></b>
 			</div>
 		</td>
@@ -126,7 +126,7 @@
 
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/>문승우<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/><br/> 
 				<b></b>
 			</div>
 		</td>
@@ -151,7 +151,7 @@
 
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/> 윤 진훈 <br/> 
+			<div align="left"> 파일럿 프로젝트 <br/> <br/> 
 				<b></b>
 			</div>
 		</td>
@@ -176,7 +176,7 @@
 
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/>전예슬<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/><br/> 
 				<b></b>
 			</div>
 		</td>
@@ -201,7 +201,7 @@
 
 	<tr>
 		<td>
-			<div align="left"> 파일럿 프로젝트 <br/>정수빈<br/> 
+			<div align="left"> 파일럿 프로젝트 <br/><br/> 
 				<b></b>
 			</div>
 		</td>
