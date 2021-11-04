@@ -79,7 +79,32 @@
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
-		</tr>			
+		</tr>
+		<tr bgcolor="#CC0000">
+			<td>
+			<div align="center"> 팀명:멋쟁이 수정처럼<br/>(팀장:문승우)<br/> 
+				<b></b>
+			</div>
+			</td>
+			<td>
+				<div align="left">문승우<br/>정진우, 오소영, 강수정</div>
+			</td>
+			<td>
+				<div align="left"> 데이콘 - 가스공급량 수요예측 모델개발 대회에 참여 </div></td>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(멋쟁이_수정처럼)_2차.pdf">
+					<img src='images/likelion_likesujung.png' width=200 height=100  alt="멋쟁이 수정처럼"></a>
+				</div>
+			</td>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">중간발표</a><br>
+				<a href="./reports/">최종 작품 보기</a><br>
+				</div>
+			</td>
+		</tr>		
 	</table>
 </div>
 
