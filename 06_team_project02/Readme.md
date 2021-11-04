@@ -207,7 +207,7 @@
 </div>
 
 <ul>
-<li><a href="https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/news/list_index.html">관련 뉴스 링크</a></li>
+<li><a href="https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/news/list_index.html">관련 뉴스 링크</a></li>
 </ul>
 
 <hr>
