@@ -154,7 +154,56 @@
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
-		</tr>		
+		</tr>
+		<tr bgcolor="#CC0000">
+			<td>
+			<div align="center"> 개인별 프로젝트 <br/><br/> 
+				<b></b>
+			</div>
+			</td>
+			<td>
+				<div align="left"> 정수빈 <br/>  </div>
+			</td>
+			<td>
+				<div align="left"> ___ </div></td>
+			<td>
+				<div align="center" width=150> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
+				</div>
+			</td>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">최종 작품 보기</a><br>
+				</div>
+			</td>
+		</tr>	
+		<tr bgcolor="#CC0000">
+			<td>
+			<div align="center"> 개인별 프로젝트 <br/><br/> 
+				<b></b>
+			</div>
+			</td>
+			<td>
+				<div align="left"> 전예슬 <br/>  </div>
+			</td>
+			<td>
+				<div align="left"> ___ </div></td>
+			<td>
+				<div align="center" width=150> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
+				</div>
+			</td>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">최종 작품 보기</a><br>
+				</div>
+			</td>
+		</tr>	
+		
 	</table>
 </div>
 
