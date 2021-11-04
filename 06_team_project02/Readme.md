@@ -143,7 +143,7 @@
 		<td>
 			<div align="left"> 데이콘 - 가스공급량 수요예측 모델개발 대회 </div></td>
 		<td>
-            <div align="center"> 
+            <div align="center" width=150> 
 			<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
 				<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
             </div>
