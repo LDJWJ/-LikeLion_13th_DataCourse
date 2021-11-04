@@ -169,7 +169,7 @@
 			<td>
 				<div align="center" width=150> 
 				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
-					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
+					<img src='images/' width=200 height=100  alt="태양열 예측"></a>
 				</div>
 			</td>
 			<td>
@@ -193,7 +193,7 @@
 			<td>
 				<div align="center" width=150> 
 				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
-					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
+					<img src='images/' width=200 height=100  alt="도쿄 올림픽 예측"></a>
 				</div>
 			</td>
 			<td>
