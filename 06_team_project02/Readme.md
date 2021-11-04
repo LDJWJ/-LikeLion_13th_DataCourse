@@ -53,7 +53,26 @@
 			<td width="120">
 			<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
 			</td>
-		</tr>		
+		</tr>
+		<tr bgcolor="#CC0000">
+			<td>
+			<div align="center"> 팀명:돌체라떼 <br/>(팀장:박지용)<br/> 
+				<b></b>
+			</div>
+			</td>
+			<td width="100">
+			<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
+			</td>
+			<td width="300">
+			<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+			</td>
+			<td width="120">
+			<div align="center"><font color="#FFFFFF"><b>Reports A</b></font></div>
+			</td>
+			<td width="120">
+			<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
+			</td>
+		</tr>			
 	</table>
 </div>
 
