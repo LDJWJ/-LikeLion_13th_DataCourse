@@ -60,11 +60,11 @@
 				<b></b>
 			</div>
 			</td>
-			<td width="100">
-			<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
+			<td>
+				<div align="left"> 박지용 <br/> 최두호 </div>
 			</td>
-			<td width="300">
-			<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+			<td>
+				<div align="left"> 에너지가격과 국내 가스 수요량(지역난방, 산업가스)에 다른 공급량 예측 </div>
 			</td>
 			<td width="120">
 			<div align="center"><font color="#FFFFFF"><b>Reports A</b></font></div>
