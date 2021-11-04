@@ -191,14 +191,14 @@
 			</div>
 			</td>
 			<td>
-				<div align="left"> 전예슬 <br/>  </div>
+				<div align="left"> 팀장 : 전예슬 <br/>  </div>
 			</td>
 			<td>
-				<div align="left"> ___ </div></td>
+				<div align="left"> 메달 개수에 따른 순위예측 모델 만들기 </div></td>
 			<td>
 				<div align="center" width=150> 
 				<a href="./reports/">
-					<img src='images/' width=200 height=100  alt="도쿄 올림픽 예측"></a>
+					<img src='images/2020_tokyo.png' width=200 height=100  alt="도쿄 올림픽"></a>
 				</div>
 			</td>
 			<td>
