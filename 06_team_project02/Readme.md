@@ -202,8 +202,7 @@
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
-		</tr>	
-		
+		</tr>
 	</table>
 </div>
 
