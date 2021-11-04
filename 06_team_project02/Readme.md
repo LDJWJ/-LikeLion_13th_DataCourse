@@ -53,26 +53,7 @@
 			<td width="120">
 			<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
 			</td>
-		</tr>
-		
-		<tr>
-			<td>
-
-			</td>
-
-			<td>
-			</td>
-			<td>
-
-			</td>
-			<td>
-
-			</td>
-			<td>
-
-			</td>
-		</tr>
-		
+		</tr>		
 	</table>
 </div>
 
