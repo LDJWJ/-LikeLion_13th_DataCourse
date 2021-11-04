@@ -57,15 +57,10 @@
 		
 		<tr>
 			<td>
-			<div align="center"> 팀명:돌체라떼 <br/>(팀장:박지용)<br/> 
-				<b></b>
-			</div>
+
 			</td>
+
 			<td>
-				<div align="left"> 박지용 <br/> 최두호 </div>
-			</td>
-			<td>
-				<div align="left"> 에너지가격과 국내 가스 수요량(지역난방, 산업가스)에 다른 공급량 예측 </div>
 			</td>
 			<td>
 
