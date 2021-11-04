@@ -50,7 +50,7 @@
 			<td width="120">
 			<div align="center"><font color="#FFFFFF"><b>Reports A</b></font></div>
 			</td>
-			<td width="120">
+			<td width="150">
 			<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
 			</td>
 		</tr>
