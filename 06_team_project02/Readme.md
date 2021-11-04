@@ -99,7 +99,7 @@
 			</td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/최종_프로젝트_수행_계획서(멋쟁이_수정처럼)_2차.pdf">프로젝트 수행계획서</a><br>
 				<a href="./reports/">중간발표</a><br>
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
@@ -118,13 +118,13 @@
 				<div align="left"> 날씨에 따른 가스공급량 수요예측 모델 개발 </div></td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차_20211102.pdf">
+				<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차.pdf">
 					<img src='images/fighting_jin.png' width=200 height=100  alt="으쌰으쌰"></a>
 				</div>
 			</td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차.pdf">프로젝트 수행계획서</a><br>
 				<a href="./reports/">중간발표</a><br>
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
@@ -143,13 +143,13 @@
 				<div align="left"> 데이콘 - 가스공급량 수요예측 모델개발 대회 </div></td>
 			<td>
 				<div align="center" width=150> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차.pdf">
 					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
 				</div>
 			</td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차.pdf">프로젝트 수행계획서</a><br>
 				<a href="./reports/">중간발표</a><br>
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
@@ -168,13 +168,13 @@
 				<div align="left"> ___ </div></td>
 			<td>
 				<div align="center" width=150> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+				<a href="./reports/">
 					<img src='images/' width=200 height=100  alt="태양열 예측"></a>
 				</div>
 			</td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">프로젝트 수행계획서</a><br>
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
@@ -192,13 +192,13 @@
 				<div align="left"> ___ </div></td>
 			<td>
 				<div align="center" width=150> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+				<a href="./reports/">
 					<img src='images/' width=200 height=100  alt="도쿄 올림픽 예측"></a>
 				</div>
 			</td>
 			<td>
 				<div align="center"> 
-				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">프로젝트 수행계획서</a><br>
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
