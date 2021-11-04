@@ -129,6 +129,31 @@
 				<a href="./reports/">최종 작품 보기</a><br>
 				</div>
 			</td>
+		</tr>
+		<tr bgcolor="#CC0000">
+			<td>
+			<div align="center"> 팀명: 삼삼사자 <br/>(팀장:이성준)<br/> 
+				<b></b>
+			</div>
+			</td>
+			<td>
+				<div align="left"> 이성준 <br/> 박승규, 노현곤 </div>
+			</td>
+			<td>
+				<div align="left"> 데이콘 - 가스공급량 수요예측 모델개발 대회 </div></td>
+			<td>
+				<div align="center" width=150> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">
+					<img src='images/05_33lion.png' width=200 height=100  alt="삼삼사자"></a>
+				</div>
+			</td>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">중간발표</a><br>
+				<a href="./reports/">최종 작품 보기</a><br>
+				</div>
+			</td>
 		</tr>		
 	</table>
 </div>
