@@ -66,11 +66,18 @@
 			<td>
 				<div align="left"> 에너지가격과 국내 가스 수요량(지역난방, 산업가스)에 다른 공급량 예측 </div>
 			</td>
-			<td width="120">
-			<div align="center"><font color="#FFFFFF"><b>Reports A</b></font></div>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">
+					<img src='images/dolce.jpg' width=200 height=100  alt="돌체라떼"></a>
+				</div>
 			</td>
-			<td width="120">
-			<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
+			<td>
+				<div align="center"> 
+				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
+				<a href="./reports/">중간 발표</a><br>
+				<a href="./reports/">최종 작품 보기</a><br>
+				</div>
 			</td>
 		</tr>			
 	</table>
