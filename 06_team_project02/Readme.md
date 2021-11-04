@@ -170,11 +170,11 @@
 				<div align="left"> 팀장 : 정수빈 <br/>  </div>
 			</td>
 			<td>
-				<div align="left"> ___ </div></td>
+				<div align="left"> 에너지 얌얌 </div></td>
 			<td>
 				<div align="center" width=150> 
 				<a href="./reports/">
-					<img src='images/' width=200 height=100  alt="태양열 예측"></a>
+					<img src='images/image_sun.png' width=200 height=100  alt="태양열 예측"></a>
 				</div>
 			</td>
 			<td>
