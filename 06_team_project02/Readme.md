@@ -167,7 +167,7 @@
 			</div>
 			</td>
 			<td>
-				<div align="left"> 정수빈 <br/>  </div>
+				<div align="left"> 팀장 : 정수빈 <br/>  </div>
 			</td>
 			<td>
 				<div align="left"> ___ </div></td>
