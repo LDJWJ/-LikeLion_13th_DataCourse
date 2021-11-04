@@ -54,6 +54,7 @@
 		<div align="center"><font color="#FFFFFF"><b>Reports B</b></font></div>
 		</td>
 	</tr>
+	
 	<tr>
 		<td>
         <div align="center"> 팀명:돌체라떼 <br/>(팀장:박지용)<br/> 
@@ -73,7 +74,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/">프로젝트_수행_계획서</a><br>
+			<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
 			<a href="./reports/">중간 발표</a><br>
 			<a href="./reports/">최종 작품 보기</a><br>
             </div>
@@ -98,33 +99,32 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트_수행_계획서</a><br>
+			<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
 			<a href="./reports/">중간발표</a><br>
 			<a href="./reports/">최종 작품 보기</a><br>
             </div>
         </td>
 	</tr>
-
 	<tr>
 		<td>
-        <div align="center"> 팀명: 으쌰으쌰 <br/>(팀장:가채원)<br/> 
+        <div align="center"> 팀명:으쌰으쌰<br/>(팀장:가채원)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left"> 가채원 <br/> 김범중, 김진연, 윤진훈 </div>
+            <div align="left">가채원<br/>김범중, 김진연, 윤진훈</div>
         </td>
 		<td>
 			<div align="left"> 날씨에 따른 가스공급량 수요예측 모델 개발 </div></td>
 		<td>
             <div align="center"> 
-			<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차_20211102.pdf">
-				<img src='images/fighting_jin.png' width=200 height=100  alt="으쌰으쌰"></a>
+			<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차.pdf">
+				<img src='images/likelion_likesujung.png' width=200 height=100  alt="으쌰으쌰"></a>
             </div>
         </td>
 		<td>
-            <div align="center"> 
-			<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트_수행_계획서</a><br>
+            <div align="center" width="200"> 
+			<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차.pdf">프로젝트 수행계획서</a><br>
 			<a href="./reports/">중간발표</a><br>
 			<a href="./reports/">최종 작품 보기</a><br>
             </div>
@@ -150,7 +150,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트_수행_계획서</a><br>
+			<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차_1102.pdf">프로젝트 수행계획서</a><br>
 			<a href="./reports/">중간발표</a><br>
 			<a href="./reports/">최종 작품 보기</a><br>
             </div>
