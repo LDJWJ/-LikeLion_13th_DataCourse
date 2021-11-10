@@ -80,7 +80,7 @@
 			<td>
 				<div align="center"> 
 				<a href="./reports/최종_프로젝트_수행_계획서(돌체라떼)_2차.pdf">프로젝트 수행계획서</a><br>
-				<a href="./reports/팀프로젝트_돌체라떼_중간발표.pdf">작품 보기(pdf)</a><br>
+				<a href="./reports/팀프로젝트최종_발표_v10_돌체라떼.pdf">작품 보기(pdf)</a><br>
 				<a href="https://gregarious-pine-414.notion.site/2-8436ca1cd03a451f813affcda24a9a56">작품 보기(web)</a><br>
 				</div>
 			</td>
@@ -105,7 +105,7 @@
 			<td>
 				<div align="center"> 
 				<a href="./reports/최종_프로젝트_수행_계획서(멋쟁이_승우처럼)_3차.pdf">프로젝트 수행계획서</a><br>
-				<a href="./reports/팀프로젝트_멋쟁이승우처럼_중간발표.pdf">작품 보기(pdf)</a><br>
+				<a href="./reports/팀프로젝트최종_발표_v10_멋쟁이승우처럼.pdf">작품 보기(pdf)</a><br>
 				<a href="./reports/">작품 보기(web)</a><br>
 				</div>
 			</td>
@@ -131,7 +131,7 @@
 				<div align="center"> 
 				<a href="./reports/최종_프로젝트_수행_계획서(으쌰으쌰)_2차.pdf">프로젝트 수행계획서</a><br>
 				<a href="./reports/팀프로젝트_으쌰으쌰_중간발표.pdf">작품 보기(pdf)</a><br>
-				<a href="https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58">작품 보기(web)</a><br>
+				<a href="https://tulip-starflower-2f6.notion.site/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58">작품 보기(web)</a><br>
 				</div>
 			</td>
 		</tr>
@@ -155,7 +155,7 @@
 			<td>
 				<div align="center"> 
 				<a href="./reports/최종_프로젝트_수행_계획서(삼삼사자)_2차.pdf">프로젝트 수행계획서</a><br>
-				<a href="./reports/팀프로젝트_삼삼사자_중간발표.pdf">작품 보기(pdf)</a><br>
+				<a href="./reports/팀프로젝트최종_발표_v10_삼삼사자.pdf">작품 보기(pdf)</a><br>
 				<a href="./reports/">작품 보기(web)</a><br>
 				</div>
 			</td>
@@ -180,7 +180,7 @@
 			<td>
 				<div align="center"> 
 				<a href="./reports/">프로젝트 수행계획서</a><br>
-				<a href="./reports/">최종 작품 보기</a><br>
+				<a href="./reports/팀프로젝트최종_발표_v10_정수빈.pdf">최종 작품 보기</a><br>
 				</div>
 			</td>
 		</tr>	
@@ -204,7 +204,7 @@
 			<td>
 				<div align="center"> 
 				<a href="./reports/">프로젝트 수행계획서</a><br>
-				<a href="./reports/">최종 작품 보기</a><br>
+				<a href="./reports/팀프로젝트최종_발표_v10_전예슬.pdf">최종 작품 보기</a><br>
 				</div>
 			</td>
 		</tr>
